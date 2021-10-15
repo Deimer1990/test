@@ -1,0 +1,2 @@
+Ubunutu es un OS basado en debian el cual tiene una interfaz grafica muy amigable, permitiendonos realizar 
+diferentes tareas ya sea desde la terminal o interfaz grafica.
